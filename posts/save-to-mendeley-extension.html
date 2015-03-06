@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Save to Mendeley | Cactus</title>
+	<link rel="shortcut icon" href="/static/images/favicon.ico">	
+	<link rel="stylesheet" href="/static/css/style.css">
+	<link rel="alternate" type="application/rss+xml" title="My Blog Feed" href="/rss.xml">
+</head>
+<body>
+	
+
+<section id="wrapper" class="group">
+	<header id="header">
+		<a id="title" href="/">LM2S Blog</a>
+	</header>
+
+	<article class="post">
+		<header>
+			<h1>Save to Mendeley</h1>
+			<h2 class="headline">A Safari extension. </h2>
+		</header>
+		<section id="post-body">
+			
+
+<p>I just released a Safari extension and open sourced it on GitHub that replaces the Mendeley bookmarklet functionality. Personally I don't have the Favorites bar visible, because of this, using the bookmarklet involved several steps: going to the Bookmarks menu, then Favorites, then Save to Mendeley. While it's "only" 3 steps, it quickly becomes annoying if you're doing it a lot - as am I, because of my thesis - and, as such, having this functionality 1-click away is like fresh water on a hot summer day. </p>
+
+<p>The obvious answer was creating a Safari toolbar extension - how hard can it be anyway.</p>
+
+<p>Well it turns out that while it's pretty easy to get going, there are some difficulties along the way. Like realising that it won't be possible to just load a script directly into the page, but instead it needs to be injected into it using less obvious ways. Now, while this might all be very easy for someone who is experienced with HTML and Javascript for me it was a bit more tiresom. One thing to note is that Apple has excellent documentation about the development of extensions (I wish that some of the documentation for iOS and OS X was this good).</p>
+
+<p>Anyway, I digress. This extension can be downloaded <a href="https://github.com/lm2s/save-to-mendeley/releases/latest">here</a> and the source code is available at <a href="https://github.com/lm2s/save-to-mendeley">https://github.com/lm2s/save-to-mendeley</a>. I submitted it to the Extensions Gallery and it'll, hopefully, be available there soon.</p>
+
+<p><strong>Please note that this extension is not officially supported by Mendeley Ltd and all contact (including support requests) regarding this extension should be directed at me via <a href="luisnanuvem+savetomendeley@gmail.com">email</a> or <a href="https://twitter.com/_lm2s">twitter</a>.</strong></p>
+
+
+		</section>
+		
+		<footer id="post-meta" class="clearfix">
+			<div><span>Posted on </span> Mar 6</div>
+			<div><span>Written by</span> Luís Marques Silva</div>
+
+			<section id="sharing">
+				<a class="twitter" href="https://twitter.com/share"><span class="icon-twitter-circled"></span></a>
+
+				<a class="facebook" href="#" 
+				  onclick="
+				    window.open(
+				      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href), 
+				      'facebook-share-dialog', 
+				      'width=626,height=436'); 
+				    return false;"><span class="icon-facebook-circled"></span> 
+				</a>
+
+			</section> 
+		</footer> 
+	</article>
+
+	<footer>
+	<nav id="post-nav">
+		<span class="prev">
+			
+		</span>
+		
+
+		<span class="next">
+			
+		</span>
+	</nav>
+	</footer>
+</section> 
+
+
+
+	
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+		<script src="/static/js/main.js"></script>
+	
+</body>
+</html>
