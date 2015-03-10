@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>Extension Updates</key>
+   <array>
+     <dict>
+       <key>CFBundleIdentifier</key>
+       <string>io.github.lm2s.safari.save-to-mendeley</string>
+       <key>Developer Identifier</key>
+       <string>N5L4B84AM5</string>
+       <key>CFBundleVersion</key>
+       <string>2</string>
+       <key>CFBundleShortVersionString</key>
+       <string>1.0.1</string>
+       <key>URL</key>
+       <string>https://github.com/lm2s/save-to-mendeley/releases/download/1.0.1/Save.to.Mendeley.safariextz</string>
+     </dict>
+   </array>
+</dict>
+</plist>
