@@ -1,0 +1,8 @@
+0.2.1
+- fixed thumbnail cache clearing bug
+
+0.2
+...
+
+0.1
+...
