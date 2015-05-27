@@ -6,6 +6,18 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 0.3</title>
+            <sparkle:releaseNotesLink>
+                http://lm2s.github.io/other/flake-osx/releasenotes.txt
+            </sparkle:releaseNotesLink>
+            <pubDate>Tue, 28 May 2015 00:00:00 +0000</pubDate>
+            <enclosure url="https://lm2s.github.io/other/flake-osx/flake-0.3.zip"
+                       sparkle:version="0.3"
+                       sparkle:dsaSignature="MC4CFQDsv/Oafbz4GzYpXL/acJyaXHjBsgIVAMtudsF68rH3gsGN5O/1SRgOh3Ir" 
+                       length="3518475"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 0.2.2</title>
             <sparkle:releaseNotesLink>
                 http://lm2s.github.io/other/flake-osx/releasenotes.txt
