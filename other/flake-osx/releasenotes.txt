@@ -1,3 +1,6 @@
+0.2.2
+- added analytics
+
 0.2.1
 - fixed thumbnail cache clearing bug
 
