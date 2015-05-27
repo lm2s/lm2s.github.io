@@ -11,7 +11,7 @@
                 http://lm2s.github.io/other/flake-osx/releasenotes.txt
             </sparkle:releaseNotesLink>
             <pubDate>Tue, 27 May 2015 16:00:00 +0000</pubDate>
-            <enclosure url="https://lm2s.github.io/other/flake-osx/flake-0.2.1.zip"
+            <enclosure url="https://lm2s.github.io/other/flake-osx/Flake-0.2.1.zip"
                        sparkle:version="0.2.1"
                        sparkle:dsaSignature="MC0CFBncpybnmqTxghBz8ox8Zk1bZBVwAhUAkuJbFcLr2IfqIyqImf0q7/1fDt8=" 
                        length="2209290"
