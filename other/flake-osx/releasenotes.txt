@@ -1,3 +1,8 @@
+0.4
+- better thumbs
+- update check is now scheduled
+- ...
+
 0.3
 - improved UI
 
